@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Tweets Analysis
 
 
 This is a Streamlit Application presenting the Analysis of the Reviews given by passengers based on their travel experience of different USA Airlines.
